@@ -1,0 +1,3 @@
+signup user
+email: bright@gmail.com
+pw: bright35
